@@ -1,0 +1,17 @@
+Three-things
+
+-three boxes with two textareas in each box
+-one of the textarea (in the box) is for the thing i did well today
+-the other textarea is for the reason that thing happened
+-when all three boxes (all six textareas) are filled in, the submit buttom becomes
+available
+-on submit, each thing and why are stored on my page
+-with date on top
+-each day is held within a box
+-can access a log of previous days
+
+routes:
+display days archive
+add day
+click on a specific day to see it individually
+edit?

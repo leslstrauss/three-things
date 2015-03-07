@@ -21,7 +21,7 @@ my husband is really thoughtful sometimes” or “because I remembered to call 
 from work and remind him to stop by the grocery store.” Or if you wrote, “My
 sister just gave birth to a healthy baby boy,” you might pick as the cause “God
 was looking out for her” or “She did everything right during her pregnancy.”
->> Writing about why the positive events in your life happened may seem awkward
+> Writing about why the positive events in your life happened may seem awkward
 at first, but please stick with it for one week. It will get easier. The odds
 are that you will be less depressed, happier, and addicted to this exercise six
 months from now.
