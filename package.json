@@ -1,7 +1,7 @@
 {
   "name": "three-things",
   "version": "0.0.0",
-  "description": "Small description for three-things goes here",
+  "description": "User interface for Three-Things app",
   "private": true,
   "directories": {
     "doc": "doc",
@@ -12,12 +12,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/leslstrauss/three-things",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
-  "license": "MIT",
+  "author": "Leslie Strauss",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
     "ember-cli": "0.2.0-beta.1",

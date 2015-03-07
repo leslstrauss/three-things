@@ -1,53 +1,27 @@
-# Three-things
+# Three-Things
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+## Three Things & Why
 
-## Prerequisites
+The goal of this app is to provide a convenient place for me to compose and
+store my daily submissions of the exercise I call "Three Things & Why."
 
-You will need the following things properly installed on your computer.
+The originator of this exercise is Martin Seligan, University of Pennsylvania
+professor. Here's his explanation of it:
 
-* [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
-* [Ember CLI](http://www.ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
-
-## Installation
-
-* `git clone <repository-url>` this repository
-* change into the new directory
-* `npm install`
-* `bower install`
-
-## Running / Development
-
-* `ember server`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://www.ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
+> Every night for the next week, set aside ten minutes before you go to sleep.
+Write down three things that went well today and why they went well. You may use
+a journal or your computer to write about the events, but it is important that
+you have a physical record of what you wrote. The three things need not be
+earthshaking in importance (“ My husband picked up my favorite ice cream for
+dessert on the way home from work today”), but they can be important (“ My
+sister just gave birth to a healthy baby boy”).
+Next to each positive event, answer the question “Why did this happen?” For
+example, if you wrote that your husband picked up ice cream, write “because
+my husband is really thoughtful sometimes” or “because I remembered to call him
+from work and remind him to stop by the grocery store.” Or if you wrote, “My
+sister just gave birth to a healthy baby boy,” you might pick as the cause “God
+was looking out for her” or “She did everything right during her pregnancy.”
+>> Writing about why the positive events in your life happened may seem awkward
+at first, but please stick with it for one week. It will get easier. The odds
+are that you will be less depressed, happier, and addicted to this exercise six
+months from now.
